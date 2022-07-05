@@ -1,0 +1,1 @@
+# cqrs-mediatR-aspnet-core
